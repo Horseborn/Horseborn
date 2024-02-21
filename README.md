@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Horseborn
 - 👀 I’m interested in coding! Piano! Games!
 - 🌱 I’m currently learning C#!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on everything!
+- 📫 How to reach me ...?
 
 <!---
 Horseborn/Horseborn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
